@@ -1,10 +1,10 @@
 {
-    "name": "aleena ealias",
-    "email": "aleenaealias03@gmail.com",
-    "phone": "6362308437",
+    "name": "...",
+    "email": "...",
+    "phone": "...",
     "experience": "0",
     "position": "AI/ML Engineer",
-    "location": "Bangalore, Karnataka",
+    "location": "...",
     "techstack": "Python, Java",
     "questions": [
         "Explain the difference between a list and a tuple in Python. When would you use each?",
@@ -24,4 +24,5 @@
     "final_questions": [
         "How will I get the information regarding this interview?"
     ]
+
 }
