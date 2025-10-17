@@ -1,0 +1,21 @@
+{
+    "name": "john doe",
+    "email": "johndoe@gmail.com",
+    "phone": "8786958405",
+    "experience": "0",
+    "position": "ai/ml engineer",
+    "location": "mumbai, India",
+    "techstack": "python, java",
+    "questions": [
+        "Explain the difference between a list and a tuple in Python. When would you use each?",
+        "How do you handle exceptions in Python? Provide an example of a try-except block.",
+        "Explain the concept of inheritance and polymorphism in Java.",
+        "What is the difference between abstract classes and interfaces?"
+    ],
+    "answers": [
+        "In Python, a list is mutable, meaning its elements can be added, removed, or modified after creation, while a tuple is immutable, meaning its contents cannot be changed once defined. Lists are typically used when you need a dynamic collection that can be updated, such as when storing user inputs or items in a cart. Tuples, on the other hand, are used for fixed collections of data that should remain constant, such as coordinates or configuration settings."
+    ],
+    "current_question": 1,
+    "timestamp": "2025-10-17T16:25:08.043578",
+    "interview_id": "TS_20251017162508"
+}
