@@ -75,6 +75,7 @@ Interacting with the chatbot is designed to be as simple as having a conversatio
 3.  **Share Your Skills:** When asked for your tech stack, list out the programming languages, frameworks, and tools you're comfortable with.
 4.  **Answer Technical Questions:** Based on your tech stack, the bot will generate a few technical questions for you to answer.
 5.  **Wrap Up:** Once you're done, the bot will give you a summary and explain the next steps. You can end the conversation at any time by typing "bye" or "exit".
+6.  **Save Data:** The data of the candidate will be stored as a json file which can be viewed in the data folder.
 
 
 ##  Technical Details
@@ -126,3 +127,4 @@ Few challenges faced were:
 ```
 
 ```
+
